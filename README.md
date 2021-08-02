@@ -1,8 +1,9 @@
 
 ### Requisitos
 
-- [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet/5.0) 
+- [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet/3.1?WT.mc_id=dotnet-35129-website) 
 - [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- Visual Studio
 
 ### Configuracion de la base de datos:
 - Crear Database: Ejecutar el script CoelsaContacts.sql.  Ruta : \CoelsaContacts\DB
